@@ -4,11 +4,11 @@
 
 ## Как начать играть
 
-1. Скачайте лаунчер: **[AsuraLauncher-Setup.exe](https://github.com/AsuraRealms/asura-realms/releases/download/pack-0.11.29/AsuraLauncher-Setup.exe)**
+1. Скачайте лаунчер: **[AsuraLauncher-Setup.exe](https://github.com/AsuraRealms/asura-realms/releases/download/pack-0.11.29.1/AsuraLauncher-Setup.exe)**
 2. Установите и запустите, введите ник.
 3. Нажмите «Играть» — лаунчер сам скачает Java, Minecraft, NeoForge и сборку и будет обновлять её.
 
-Текущая сборка: **0.11.29**.
+Текущая сборка: **0.11.29.1**.
 
 ## Моды других авторов
 
@@ -20,4 +20,5 @@ Asura Realms не работает без этих модов. Лаунчер с
 | [Epic Fight](https://modrinth.com/mod/epic-fight) | 21.17.3.1-mc1.21.1-neoforge | yesman1058, MetalKnight56, Forixaim, yonchichikito | GNU General Public License v3.0 or later |
 | [Geckolib](https://modrinth.com/mod/geckolib) | 4.9.3 | DerToaster98, mchorse, KyoSleep, Gecko, ZigyTheBird, Tslat | MIT License |
 | [playerAnimator](https://modrinth.com/mod/playeranimator) | 2.0.4+1.21.1-forge | KosmX, ZigyTheBird | MIT License |
+| [CustomSkinLoader](https://modrinth.com/mod/customskinloader) | 15.1-Universal | zekerzhayard, xfl03 | GNU General Public License v3.0 only |
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-1.21.1-2.6.22 | BreadLoaf, Stridey, henkelmax | LicenseRef-All-Rights-Reserved |
