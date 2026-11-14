@@ -4,11 +4,11 @@
 
 ## Как начать играть
 
-1. Скачайте лаунчер: **[AsuraLauncher-Setup.exe](https://github.com/AsuraRealms/asura-realms/releases/download/pack-0.11.31/AsuraLauncher-Setup.exe)**
+1. Скачайте лаунчер: **[AsuraLauncher-Setup.exe](https://github.com/AsuraRealms/asura-realms/releases/download/pack-0.11.33/AsuraLauncher-Setup.exe)**
 2. Установите и запустите, введите ник.
 3. Нажмите «Играть» — лаунчер сам скачает Java, Minecraft, NeoForge и сборку и будет обновлять её.
 
-Текущая сборка: **0.11.32**.
+Текущая сборка: **0.11.33**.
 
 ## Моды других авторов
 
